@@ -36,4 +36,4 @@ Context API · Custom Hooks
 - `UI/` — Reusable UI components
 
 ## Course
-University of Newcastle, 2025
+INFT3050 University of Newcastle, 2025
